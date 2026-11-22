@@ -37,6 +37,6 @@ Lab write-ups are on the way.
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0xF8D-FFFFFF?style=for-the-badge&logo=tryhackme&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/0xF8D)
-[![YouTube](https://img.shields.io/badge/YouTube-0xF8D-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000)](https://www.youtube.com/@YOUR-CHANNEL)
+[![YouTube](https://img.shields.io/badge/YouTube-0xF8D-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000)](https://www.youtube.com/@0xF8D)
 
 </div>
